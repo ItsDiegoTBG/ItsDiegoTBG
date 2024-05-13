@@ -12,7 +12,7 @@ my proyects and my interests.
 ## Información personal
 * Nombre/Name: Diego Contreras
 * Ocupación/Ocupation: Estudiante de Ingeniera de Computación, ESPOL.
-* Lugar de residencia/Place of Residence: Guayaquil, Ecuador
+* Lugar de residencia/Place of Residence: Ecuador
 * Sitio web/Website: [Tu sitio web]
 ## Proyectos
 * [Lista de tus proyectos]
