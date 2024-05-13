@@ -1,16 +1,20 @@
-### Hi there 👋
+# Mi sitio personal / My Personal Site
+Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
+proyectos y mis intereses.
 
-<!--
-**ItsDiegoTBG/ItsDiegoTBG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my personal site. Right here You can find informacion about me, 
+my proyects and my interests.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contenido
+* [Información personal](#información-personal)
+* [Proyectos](#proyectos)
+* [Intereses](#intereses)
+## Información personal
+* Nombre/Name: Diego Contreras
+* Ocupación/Ocupation: Estudiante de Ingeniera de Computación, ESPOL.
+* Lugar de residencia/Place of Residence: Guayaquil, Ecuador
+* Sitio web/Website: [Tu sitio web]
+## Proyectos
+* [Lista de tus proyectos]
+## Intereses
+* [Lista de tus intereses]
