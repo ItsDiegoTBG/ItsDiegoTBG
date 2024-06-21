@@ -14,6 +14,7 @@ my proyects and my interests.
 * Ocupation: Computer Science Student
 * Website: https://itsdiegotbg.github.io/curriculum/ (CURRENTLY IN SPANISH, TRANSLATED VERSION COMING SOON!)
 ## Projects
+	| Syntax | Description |
 | ----------- | ----------- |
 |  Linked Lists proyect in JavaFX | Web Page Design with HTML, CSS and JS. |
 | Dictonary in Java | Plaforming Games |
@@ -47,6 +48,7 @@ proyectos y mis intereses.
 * [Intereses](#intereses)
 * [Projectos Futuros](#Projectos-Futuros)
 ## Proyectos
+	| Syntax | Description |
 | ----------- | ----------- |
 |  Linked Lists en JavaFX | Diseño de Pagina Web HTML,CSS and JS |
 | Diccionario en Java | Juegos de Plataformas |
