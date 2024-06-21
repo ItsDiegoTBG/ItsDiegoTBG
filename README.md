@@ -48,10 +48,10 @@ proyectos y mis intereses.
 * [Intereses](#intereses)
 * [Projectos Futuros](#Projectos-Futuros)
 ## Proyectos
-| Proyectos |  |
-|  :---  | ---:  |
-|  Linked Lists en JavaFX | Diseño de Pagina Web HTML,CSS and JS |
-| Diccionario en Java | Juegos de Plataformas |
+| Projects                       |                                        |
+|--------------------------------|----------------------------------------|
+| Linked Lists en JavaFX         | Diseño de Pagina Web HTML,CSS and JS   |
+| Diccionario en Java            | Juegos de Plataformas                  |
 ## Habilidades
 * Python
 * Java
