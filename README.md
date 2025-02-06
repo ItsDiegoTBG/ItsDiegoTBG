@@ -23,11 +23,13 @@ Buenas, me apasiona ambos el desarrollo del frontend como backend y tengo experi
 * [Intereses](#intereses)
 * [Projectos Futuros](#Projectos-Futuros)
 ## Proyectos
-| Projects                               |                                        |
-|----------------------------------------|----------------------------------------|
-| Linked Lists en JavaFX                 | Diseño de Pagina Web HTML,CSS and JS   |
-| Diccionario en Java                    | Juegos de Plataformas                  |
-| Applicacion de Wallet Virtual Paganini | Dashboard del Clima                    |
+| Projects                                  |                                        |
+|-------------------------------------------|----------------------------------------|
+| [Linked Lists en JavaFX] | [Diseño de Página Web HTML, CSS y JS](https://github.com/ItsDiegoTBG/landing) |
+| [Diccionario en Java]      | [Juegos de Plataformas] |
+| [Aplicación de Wallet Virtual Paganini](https://github.com/ItsDiegoTBG/PAGANINIGROUP) | [Dashboard del Clima](https://github.com/ItsDiegoTBG/dashboard) |
+| [Aplicación de Calendario Móvil Interactivo](https://github.com/Sebasceb/hybrid) | [Pagina Web de venta de componentes de laptops PHP] (https://github.com/savier018/proyecto_lenguajesProgramacion) |
+
 ## Habilidades
 * ![Python](https://img.shields.io/badge/Python-3.9-blue)
 * ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
