@@ -21,21 +21,26 @@ proyectos y mis intereses.
 * [Intereses](#intereses)
 * [Projectos Futuros](#Projectos-Futuros)
 ## Proyectos
-| Projects                       |                                        |
-|--------------------------------|----------------------------------------|
-| Linked Lists en JavaFX         | Diseño de Pagina Web HTML,CSS and JS   |
-| Diccionario en Java            | Juegos de Plataformas                  |
+| Projects                               |                                        |
+|----------------------------------------|----------------------------------------|
+| Linked Lists en JavaFX                 | Diseño de Pagina Web HTML,CSS and JS   |
+| Diccionario en Java                    | Juegos de Plataformas                  |
+| Applicacion de Wallet Virtual Paganini | Dashboard del Clima                    |
 ## Habilidades
-* Python
-* Java
-* C
-* JS
-* Bases de Datos (PostgreSQL. MySQL)
-* Lenguajes de maquetado (HTML y CSS)
+* ![Python](https://img.shields.io/badge/Python-3.9-blue)
+* ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+* ![TypeScript](https://img.shields.io/badge/TypeScript-4.5-blue)
+* ![Java](https://img.shields.io/badge/Java-17-red)
+* ![PHP](https://img.shields.io/badge/PHP-8.1-purple)
+* ![Dart](https://img.shields.io/badge/Dart-3.0-blue)
+* ![C](https://img.shields.io/badge/C-99-blue)
+* ![Ruby](https://img.shields.io/badge/Ruby-3.1-red)
+* ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
+* ![HTML & CSS](https://img.shields.io/badge/HTML%20%2B%20CSS-Responsive-green)
 * ## Intereses
 * Aprendiendo Lenguajes, ya sean idiomas o lenguajes de programación
 * ## Projectos Futuros
 - [ ] Creando un Motor de Juegos en C++ (En desarrollo)
-- [ ] Aprendiendo Ruby (En desarrollo)
+- [X] Aprendiendo Ruby (En desarrollo)
 - [ ] Renderizado 3D en Java
 - [ ] Aprendiendo a Crear Redes Neuronales en Python
