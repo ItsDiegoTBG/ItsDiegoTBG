@@ -29,6 +29,7 @@ Buenas, me apasiona ambos el desarrollo del frontend como backend y tengo experi
 | [Diccionario en Java]      | [Juegos de Plataformas] |
 | [Aplicación de Wallet Virtual Paganini](https://github.com/ItsDiegoTBG/PAGANINIGROUP) | [Dashboard del Clima](https://github.com/ItsDiegoTBG/dashboard) |
 | [Aplicación de Calendario Móvil Interactivo](https://github.com/Sebasceb/hybrid) | [Pagina Web de venta de componentes de laptops PHP](https://github.com/ItsDiegoTBG/ProyectoLPP2) |
+| [Pagina Web de venta de Tours](https://github.com/AllexanderGM/DH-G2-Final) ||
 
 ## Habilidades
 * ![Python](https://img.shields.io/badge/Python-3.9-blue)
