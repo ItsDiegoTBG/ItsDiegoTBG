@@ -15,7 +15,7 @@ proyectos y mis intereses.
 * Ocupation: Estudiante de Ingeniera de Ciencias de la Computación.
 * Website: https://itsdiegotbg.github.io/curriculum/ (En proceso de actualización)
 ## Acerca de mi
-Buenas, me apasiona ambos el desarrollo del frontend como backend y tengo experiencia utilizando Java, Python y recientemente Dart con Flutter. Siempre estoy buscando mejorar mis conocimientos con diferentes experiencias, conocer nuevos temas interesantes y como estos funcionan por detras.
+Me apasiona ambos el desarrollo del frontend como backend y tengo experiencia utilizando Java, Python y recientemente Dart con Flutter. Siempre estoy buscando mejorar mis conocimientos con diferentes experiencias, conocer nuevos temas interesantes y como estos funcionan por detras.
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
