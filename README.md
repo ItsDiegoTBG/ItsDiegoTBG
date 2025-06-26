@@ -21,9 +21,9 @@ Me apasiona ambos el desarrollo del frontend como backend y tengo experiencia ut
 * [Proyectos](#proyectos)
 * [Habilidades](#Habilidades)
 * [Intereses](#intereses)
-* [Projectos Futuros](#Projectos-Futuros)
+* [Proyectos Futuros](#Projectos-Futuros)
 ## Proyectos
-| Projects                                  |                                        |
+| Proyectos                                  |                                        |
 |-------------------------------------------|----------------------------------------|
 | [Linked Lists en JavaFX] | [Diseño de Página Web HTML, CSS y JS](https://github.com/ItsDiegoTBG/landing) |
 | [Diccionario en Java]      | [Juegos de Plataformas] |
